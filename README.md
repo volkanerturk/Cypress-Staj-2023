@@ -38,6 +38,5 @@
 # Eğitim için tavsiye:
 | Platform | İsim |
 | ------ | ------ |
-| Youtube | Miktad Öztürk - Cypress eğitimleri|
 | Udemy| Mustafa Tayiz, Sungur Polater - Cypress IO Sıfırdan ileri seviye WEB otomasyon testi |
 
