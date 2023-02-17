@@ -1,0 +1,19 @@
+{
+  "name": "cypress-staj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "chrome": "./node_modules/.bin/cypress run --browser=chrome --headed",
+    "firefox": "./node_modules/.bin/cypress run --browser=firefox --headed",
+    "paralel": "npm run chrome & npm run firefox"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.1",
+    "cypress-mochawesome-reporter": "^3.3.0"
+  }
+}
