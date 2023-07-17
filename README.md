@@ -35,8 +35,3 @@
 | Mochawesome Reporter | https://www.npmjs.com/package/cypress-mochawesome-reporter |
 | Cypress Xpath Kurulum | https://www.npmjs.com/package/cypress-xpath |
 
-# Eğitim için tavsiye:
-| Platform | İsim |
-| ------ | ------ |
-| Udemy| Mustafa Tayiz, Sungur Polater - Cypress IO Sıfırdan ileri seviye WEB otomasyon testi |
-
